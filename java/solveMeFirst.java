@@ -6,7 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solveMeFirst {
 
 
     static int solveMeFirst(int a, int b) {
