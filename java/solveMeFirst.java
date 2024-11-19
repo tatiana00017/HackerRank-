@@ -1,5 +1,4 @@
-
-//https://www.hackerrank.com/challenges/solve-me-first/problem
+// https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
 import java.io.*;
 import java.util.*;
 import java.text.*;
